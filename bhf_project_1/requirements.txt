@@ -9,4 +9,4 @@ pyspark~=3.5.2
 pytz~=2024.1
 pytest>=8.3.0
 databricks-feature-engineering==0.12.1
-lightgbm==4.3.0
+lightgbm==4.6.0
